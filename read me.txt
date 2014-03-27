@@ -1,0 +1,15 @@
+instructions..
+
+Welcome to Code Breaker!
+
+The computer randomly generates a secret code of the enable symbols.
+
+Enter a guess of what the code might be by clicking on the symbols to the left. 
+
+When you are satisfied with the guess,press"Done".
+
+You are given two clues about the guess. Black plus signs indicate correct positions. Black check marks indicate correct symbols but in wrong positions.
+
+Continue guessing based on the clues ten times.
+
+Good luck!

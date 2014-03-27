@@ -1,0 +1,18 @@
+Code Break'e hoþgeldiniz!!
+
+Oyunun amacý; bilgisayar random resim girer ve oyuncu bunu tahmin etmeye çalýþýr.
+
+Sizin tahmininiz yukarda gözükür fakat þekiller farklý olmak zorundadýr ve "DONE" tuþuna bastýðýnýz zaman oyun baþlar.
+
+Sað tarafta "artý" ve "tik" iþaretleri çýkýcaktýr. Bunlar sizi yönlendirir.
+"artý" iþareti seçtiðiniz þeklin yeriyle beraber doðru olduðunu söyler,
+ "tik" iþareti ise seçtiðiniz þeklin doðru fakat yerinin yanlýþ olduðunu belirtir.
+
+
+
+sizi tahmininizle baþbaþa býrakýyorum.
+
+iyi þanslar!
+
+
+(Not: Þekiller ayný olmamak þartýyla tahmin edilebilir.)
